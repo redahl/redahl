@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @redahl
-- 👀 I’m interested in  AI
+- 👀 I’m interested in  AI y en ser Full Stack Developer
 - 🌱 I’m currently learning  Python
+- Tambien estoy haciendo cursos en Henry
 - 💞️ I’m looking to collaborate on Proyectos
 - 📫 How to reach me an email me
 
